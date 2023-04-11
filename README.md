@@ -1,1 +1,1 @@
-readme for recursion
+readme static libraries
